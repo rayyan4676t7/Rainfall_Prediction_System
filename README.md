@@ -70,6 +70,8 @@ Rainfall_Prediction_System/
 
 The model demonstrates strong predictive capability, successfully learning the relationship between weather parameters and rainfall levels.
 
+![Results](results.png)
+
 ## Tech Stack
 
 - Python
