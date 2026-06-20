@@ -60,12 +60,13 @@ Rainfall_Prediction_System/
 
 ## Results
 
-| Metric |                  Value |
-|                        |         |
-| R² Score               |   0.83  |
-| Prediction Performance | ~82.9%  |
-| MAE                    | 2.63 mm |
-| RMSE                   | 3.04 mm |
+| Metric | Value |
+|---|---|
+| R² Score | 0.83 |
+| Prediction Performance | ~82.9% |
+| MAE | 2.63 mm |
+| RMSE | 3.04 mm |
+
 
 The model demonstrates strong predictive capability, successfully learning the relationship between weather parameters and rainfall levels.
 
