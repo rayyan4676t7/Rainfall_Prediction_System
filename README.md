@@ -109,23 +109,23 @@ python rainfall_gui.py
 
 **Upload Dataset**
 
-![Upload Dataset](upload%20dataset.png)
+![Upload Dataset](screenshots/upload%20dataset.png)
 
 **Dataset Loaded**
 
-![Dataset Loaded](dataset%20loaded.png)
+![Dataset Loaded](screenshots/dataset%20loaded.png)
 
 **Training Model**
 
-![Training Model](training%20model.png)
+![Training Model](screenshots/training%20model.png)
 
 **Model Trained**
 
-![Model Trained](model%20trained.png)
+![Model Trained](screenshots/model%20trained.png)
 
 **Final Prediction**
 
-![Final Result](final%20result.png)
+![Final Result](screenshots/final%20result.png)
 
 ---
 
